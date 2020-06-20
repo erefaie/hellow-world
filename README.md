@@ -1,3 +1,2 @@
 # hellow-world
-just for training
-test editing the file
+I'm learning Data Science
