@@ -1,2 +1,2 @@
 # hellow-world
-just for training
+I'm learning Data Science
